@@ -152,6 +152,7 @@ transform: scale(1.1);
     max-width: 418px;
     background-color: white;
     padding: 24px 27px 24px 23px;
+
 }
 .main_posts .posts_item h3{
     font-family: 'Heebo', sans-serif;
@@ -391,6 +392,66 @@ footer p{
     font-size: 14px;
     line-height: 21px;
     text-align: center;
+    color: #21243D;
+}
+
+
+/*/////////////////////////////////*/
+
+/* Blog */
+.main_blog{
+    padding-top: 106px;
+    padding-bottom: 53px;
+}
+.box_blog{
+    max-width: 681px;
+    margin: auto;
+}
+.main_blog .box_blog h1{
+    font-family: 'Heebo',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+    margin-bottom: 23px;
+}
+.item_blog{
+    padding-top: 32px;
+    padding-bottom: 29px;
+    border-bottom: solid 1px #E0E0E0;
+}
+.main_blog .box_blog .item_blog h2{
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+    margin-bottom: 16px;
+}
+.main_blog .item_blog .posts_date .posts_vertline{
+    font-family: 'Heebo',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #21243D;
+}
+.main_blog .item_blog .posts_date span{
+    font-family: 'Heebo',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #8695A4;
+}
+.main_blog .item_blog p{
+    font-family: 'Heebo',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
     color: #21243D;
 }
 
