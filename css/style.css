@@ -40,7 +40,8 @@ header nav li a{
     transition: 0.3s;
 }
 header nav li:hover a{
-transform: scale(1.1);
+    transform: scale(1.1);
+    color: #FF6464;
 }
 
 /* Main banner*/
