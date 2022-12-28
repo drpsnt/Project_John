@@ -222,12 +222,14 @@ header nav li:hover a{
 .works_image{
     margin-right: 18px;
     max-width: 246px;
+    width: 100%;
+    border-radius: 6px;
+    overflow: hidden;
 }
 
 .section_works .box_works .works_image img{
     width: 100%;
-    border-radius: 6px;
-    display: block;
+
 }
 .post_info {
     max-width: 594px;
@@ -405,7 +407,7 @@ footer p{
     padding-bottom: 53px;
 }
 .box_blog{
-    max-width: 681px;
+    max-width: 682px;
     margin: auto;
 }
 .main_blog .box_blog h1{
@@ -455,4 +457,29 @@ footer p{
     line-height: 24px;
     color: #21243D;
 }
+
+/*/// Works ///*/
+.main_work{
+padding: 90px 0 58px 0;
+}
+.main_work .box_blog h1{
+    font-family: 'Heebo',sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+    margin-bottom: 25px;
+}
+.item_work{
+    display: flex;
+    margin-bottom: 43px;
+    padding-bottom: 47px;
+    border-bottom: solid 1px #E0E0E0;
+}
+.main_work .box_blog .item_work .works_image img{
+    width: 100%;
+}
+
+
 
