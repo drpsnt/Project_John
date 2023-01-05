@@ -255,7 +255,7 @@ header nav li:hover a{
     color: #FFFFFF;
     margin-right: 26px;
 }
-.section_works .post_works .post_info h2{
+.post_info h2{
     font-family: 'Heebo', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -263,7 +263,7 @@ header nav li:hover a{
     line-height: 30px;
     color: #21243D;
 }
-.section_works .post_works .post_info p{
+.post_info p{
     font-family: 'Heebo', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -460,7 +460,7 @@ footer p{
 
 /*/// Works ///*/
 .main_work{
-padding: 90px 0 58px 0;
+padding: 90px 0 15px 0;
 }
 .main_work .box_blog h1{
     font-family: 'Heebo',sans-serif;
